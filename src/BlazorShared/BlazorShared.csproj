@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>BlazorShared</RootNamespace>
     <AssemblyName>BlazorShared</AssemblyName>
